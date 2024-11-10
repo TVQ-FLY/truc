@@ -1,7 +1,7 @@
 
 // Quy tắc đổi tên: Chọn tất cả các ảnh cần đổi tên => Ấn f2 hoặc chuột phải chọn rename => Gõ "image"
 // Quy tắc đặt lại số thứ tự: Đổi sang một tên khác rồi đổi lại thành "image"
-const totalImages = 39; // Số lượng ảnh
+const totalImages = 44; // Số lượng ảnh
 const images = [];
 
 for (let i = 1; i <= totalImages; i++) {
